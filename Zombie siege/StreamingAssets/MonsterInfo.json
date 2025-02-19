@@ -1,0 +1,4 @@
+[
+{"id":1,"res":"Monster/Z1","animator":"Animator/Monster/monster1","atk":1,"moveSpeed":5,"roundSpeed":100,"hp":10,"atkOffst":0.8},
+{"id":2,"res":"Monster/Z2","animator":"Animator/Monster/monster2","atk":1,"moveSpeed":1,"roundSpeed":50,"hp":10,"atkOffst":1.2}
+]

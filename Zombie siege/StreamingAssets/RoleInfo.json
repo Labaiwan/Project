@@ -1,0 +1,5 @@
+[
+{"id":1,"res":"Role/1","lockMoney":0,"hp":100,"tips":"1111111111","atk":100},
+{"id":2,"res":"Role/3","lockMoney":0,"hp":100,"tips":"2222222222","atk":200},
+{"id":3,"res":"Role/4","lockMoney":100,"hp":100,"tips":"XXXXXXXXXX","atk":300}
+]
